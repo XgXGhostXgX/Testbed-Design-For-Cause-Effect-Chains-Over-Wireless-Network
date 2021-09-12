@@ -1,0 +1,17 @@
+core_cm4.h:1770:22:__NVIC_ClearPendingIRQ	16	static
+fsl_clock.h:700:20:CLOCK_EnableClock	24	static
+fsl_clock.h:714:20:CLOCK_DisableClock	24	static
+fsl_gpio.h:172:24:GPIO_PinRead	24	static
+fsl_power.h:113:20:POWER_DisablePD	16	static
+main.c:55:6:USB_DeviceClockInit	16	static
+main.c:110:13:printSeparator	8	static
+main.c:115:13:menuConnectToAP	8	static
+main.c:158:13:print_version	96	static
+main.c:234:6:chain1_task2	40	static
+main.c:269:6:chain1_task1	40	static
+main.c:329:6:task_loop	32	static
+main.c:387:6:UUniFast	56	static
+main.c:399:7:randomValue	24	static
+main.c:407:6:CSet_generate	48	static
+main.c:420:6:task_main	64	static
+main.c:549:5:main	24	static
