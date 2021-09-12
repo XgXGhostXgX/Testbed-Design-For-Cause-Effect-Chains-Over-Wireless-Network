@@ -1,0 +1,10 @@
+Server/Client: 
+t1 737
+t2 2614
+t3 539
+e1 9
+e2 190
+e3 168
+
+MaxReactionTime:
+14044
