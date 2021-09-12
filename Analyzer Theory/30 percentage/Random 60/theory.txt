@@ -1,0 +1,3 @@
+4 Chains: 16808
+6 Chains: 25212
+8 Chains: 33616

@@ -1,0 +1,3 @@
+4 Chains: 5392
+6 Chains: 8088
+8 Chains: 10784

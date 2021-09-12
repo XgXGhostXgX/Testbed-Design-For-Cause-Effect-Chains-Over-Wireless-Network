@@ -1,0 +1,3 @@
+4 Chains: 20680
+6 Chains: 31020
+8 Chains: 41360

@@ -1,0 +1,3 @@
+4 Chains: 19920
+6 Chains: 29880
+8 Chains: 39840
